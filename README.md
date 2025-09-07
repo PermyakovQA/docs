@@ -4,3 +4,9 @@ https://docs.google.com/spreadsheets/d/1PMvOJSMFFOySKSxn8-E7iDy3_xpzuorhtkQZ5neO
 
 Test suite
 https://github.com/PermyakovQA/docs/blob/main/Test%20suite.pdf
+
+Defect reports
+https://github.com/PermyakovQA/docs/blob/main/Issues.xlsx
+
+test run
+https://github.com/PermyakovQA/docs/blob/main/G101-Test%2Brun%2B2025_09_07.pdf
