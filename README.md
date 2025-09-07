@@ -6,7 +6,7 @@ Test suite
 https://github.com/PermyakovQA/docs/blob/main/Test%20suite.pdf
 
 Defect reports
-https://github.com/PermyakovQA/docs/blob/main/Issues.xlsx
+https://github.com/PermyakovQA/docs/blob/main/Defects.xlsx
 
 test run
-https://github.com/PermyakovQA/docs/blob/main/G101-Test%2Brun%2B2025_09_07.pdf
+https://github.com/PermyakovQA/docs/blob/main/G101-Test%2Brun%2B2025_09_08.pdf
